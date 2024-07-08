@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nathan-serfaty
+- 👀 I’m interested in Data and AI
+- 🌱 I’m currently learning Deep Learning applications with computer vision
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me, Linkedin: Nathan Serfaty
